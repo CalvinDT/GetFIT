@@ -65,7 +65,7 @@ Sequelize
 Heroku
 
 ## Contributors:
-Calvin Turner, David Silva and Tsedenia Bogale ©2022 All Rights Reserved.
+Calvin Turner, David Silva and Tsedi ©2022 All Rights Reserved.
 
 
 License
